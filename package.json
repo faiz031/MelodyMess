@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "nodemon": "^3.0.3"
+  },
+  "name": "spoti-fake",
+  "version": "1.0.0",
+  "main": "public/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zack",
+  "license": "ISC",
+  "description": "Clone Spotify"
+}

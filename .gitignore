@@ -1,0 +1,13 @@
+# Dépendances
+/node_modules
+
+# Fichiers de configuration d'environnement
+.env
+.env.local
+.env.*.local
+# Fichiers de l'éditeur
+/.vscode
+/.idea
+*.swp
+*.swo
+*~
